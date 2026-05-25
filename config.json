@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configpender",
+        "uuid": 363392,
+        "checksum": "n2lfhs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
